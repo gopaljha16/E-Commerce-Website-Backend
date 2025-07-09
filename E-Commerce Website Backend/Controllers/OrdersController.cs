@@ -7,12 +7,12 @@ using Microsoft.EntityFrameworkCore;
 namespace ECommerceBackendAPI.Controllers
 {
     [Route("api/[controller]")]
-    [Route("api/[controller]")]
     [ApiController]
     [Authorize]
     public class OrdersController : ControllerBase
     {
         private readonly ApplicationDbContext _context;
+
         public OrdersController(ApplicationDbContext context)
         {
             _context = context;

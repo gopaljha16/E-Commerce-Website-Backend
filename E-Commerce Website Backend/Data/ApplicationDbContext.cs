@@ -1,5 +1,4 @@
-﻿using E_Commerce_Website_Backend.Models;
-using ECommerceBackendAPI.Models;
+﻿using ECommerceBackendAPI.Models;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 
