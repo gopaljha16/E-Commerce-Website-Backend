@@ -1,6 +1,4 @@
-Here’s a clean, professional-style README template for your **E-Commerce Website Backend** project based on ASP.NET Core Web API:
 
----
 
 # E-Commerce Website Backend API
 
@@ -110,4 +108,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-If you'd like, I can also help generate a smaller or portfolio-optimized version of this README for LinkedIn or your resume link.
